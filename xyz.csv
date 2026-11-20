@@ -1,0 +1,17 @@
+
+Order_ID,Customer,Age,Gender,City,Product,Category,Quantity,Price,Discount,Rating,Payment,Order_Date
+101,Anu,22,Female,Calicut,Laptop,Electronics,1,55000,10%,4.5,UPI,2026-01-05
+102,Rahul,25,Male,Kochi,Mouse,Electronics,2,500,,4,Cash,2026-01-06
+103,Meera,,Female,Calicut,Phone,Electronics,1,25000,5%,5,UPI,2026-01-07
+104,Arun,30,Male,kochi,Chair,Furniture,3,2500,10%,3,Card,2026-01-08
+105,Anu,22,Female,Calicut,Laptop,Electronics,1,55000,10%,4.5,UPI,2026-01-05
+106,Ravi,abc,Male,Kannur,Table,Furniture,2,4500,0%,,Cash,2026-01-10
+107,Sneha,28,Female,Kozhikode,Phone,Electronics,-1,25000,5%,4,UPI,2026-01-11
+108,John,35,Male,Thrissur,Keyboard,Electronics,2,1200,15%,4.2,Card,2026-01-12
+109,Meera,,Female,Calicut,Phone,Electronics,1,25000,5%,5,UPI,2026-01-07
+110,Ali,24,Male,Kochi,Shirt,Clothing,3,800,0%,3.5,Cash,2026-13-15
+111,Neha,27,Female,Kannur,Watch,Accessories,1,3000,20%,4.8,UPI,2026-01-15
+112,Rahul,25,Male,Kochi,Mouse,Electronics,2,500,,4,Cash,2026-01-06
+113,Sam,29,Male,Calicut,Laptop,Electronics,1,55000,10%,5,UPI,2026-01-17
+114,Priya,31,Female,Thrissur,Shoes,Clothing,2,1500,abc,4.1,Card,2026-01-18
+115,Kevin,26,Male,Kochi,Mouse,Electronics,2,500,5%,4,Cash,2026-01-19
